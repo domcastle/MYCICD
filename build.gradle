@@ -1,0 +1,4 @@
+
+tasks.named('bootJar') {
+    archiveFileName = 'my-project-0.0.1.jar'
+}
